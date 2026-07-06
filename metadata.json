@@ -1,0 +1,8 @@
+{
+  "name": "Typeracer",
+  "description": "A minimalist, chill Typeracer game with multiplayer room support, custom avatar selection, real-time race tracks, and local/global high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

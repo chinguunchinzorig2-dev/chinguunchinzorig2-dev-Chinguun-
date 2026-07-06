@@ -1,0 +1,29 @@
+[
+  {
+    "id": "tepjz4y",
+    "name": "Бичээчchinguun",
+    "wpm": 37,
+    "errors": 3,
+    "accuracy": 100,
+    "quoteText": "Life is what happens when you are busy making other plans.",
+    "timestamp": "2026-07-06T02:32:21.059Z"
+  },
+  {
+    "id": "ekpqa7q",
+    "name": "chinguun",
+    "wpm": 33,
+    "errors": 2,
+    "accuracy": 100,
+    "quoteText": "The only way to do great work is to love what you do.",
+    "timestamp": "2026-07-06T02:39:53.354Z"
+  },
+  {
+    "id": "ymjkeu2",
+    "name": "chinguun",
+    "wpm": 30,
+    "errors": 9,
+    "accuracy": 100,
+    "quoteText": "Keep your face always toward the sunshine, and shadows will eventually fall behind you.",
+    "timestamp": "2026-07-06T02:41:37.854Z"
+  }
+]
